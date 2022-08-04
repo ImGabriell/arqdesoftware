@@ -1,0 +1,5 @@
+- Entender o conceito de Arquiteto de Software
+- Entender o que significa abstração 
+- Explicação sobre Especificação e Generalização
+- Definição de como atua e o que faz um Arquiteto de Software
+- O que é, se utiliza e o que não utiliza entre Frameworks e Bibliotecas
